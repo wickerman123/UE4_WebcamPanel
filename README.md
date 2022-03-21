@@ -2,7 +2,7 @@
 A simple editor utility that adds a customisable panel that displays a users's webcam. A fun little challenge from @Luos_83
 
 ## Installation
-Simply put the files in your content directory "*yourproject/content/WebcamPanel*"
+Simply put the WebcamPanel folder in your Project's Plugin folder "*yourproject/Plugins/WebcamPanel*"
 
 ## Useage
 #### Setup
