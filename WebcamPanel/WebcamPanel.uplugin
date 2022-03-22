@@ -10,7 +10,7 @@
 	"DocsURL": "https://github.com/wickerman123/UE4_WebcamPanel",
 	"MarketplaceURL": "",
 	"SupportURL": "",
-	"EngineVersion": "4.25.0",
+	"EngineVersion": "4.27.0",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
@@ -22,10 +22,6 @@
 		},
 		{
 			"Name": "MediaIOFramework",
-			"Enabled": true
-		},
-		{
-			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		}
 	]
