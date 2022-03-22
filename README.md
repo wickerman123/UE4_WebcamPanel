@@ -26,3 +26,11 @@ There's a little bit of setup required. Follow these steps:
 #### Options
 Click the options button in the top left of the panel to control various options such as the mask, background and chroma key settings (I don't own a greenscreen so I can't guarentee this works well, sorry!)
 ![Options](https://imgur.com/8jWNbJa.png)
+
+
+
+## Known Bugs
+
+1. When entering PIE, the Webcam feed breaks. To fix this, press the refresh button on the panel. The same issue will occur on exiting PIE too. 
+2. If the panel is present in the layout when the editor is started, the aspect ratio is incorrect. To fix this, press the refresh button on the panel.
+3. It's janky, I know, it's just a little bit of fun.
